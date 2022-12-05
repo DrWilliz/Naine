@@ -1,0 +1,12 @@
+.sprite_sheet {
+  width: 500px;
+  height: 500px;
+  background: url('Naine_animation.png') 0 0 no-repeat;
+  animation: play 2s steps(12) infinite alternate-reverse;
+
+}
+@keyframes play {
+  0%{background-position: 0px;}
+  15%{background-position: 0px}
+  100% {background-position: -6000px;}
+}
