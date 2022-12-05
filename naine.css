@@ -1,6 +1,7 @@
 .sprite_sheet {
   width: 500px;
   height: 500px;
+  position: relative;
   background: url('Naine_animation.png') 0 0 no-repeat;
   animation: play 2s steps(12) infinite alternate-reverse;
 
