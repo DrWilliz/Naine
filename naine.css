@@ -3,7 +3,7 @@
   height: 500px;
   position: relative;
   margin-left: 500px;
-  margin-top: 500px;
+  margin-top: 200px;
   background: url('Naine_animation.png') 0 0 no-repeat;
   animation: play 2s steps(12) infinite alternate-reverse;
 
